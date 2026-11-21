@@ -1,3 +1,5 @@
+https://ajakiche.github.io/CS512-HW7/hw7.html
+
 scene contains:
 A diffuse red sphere
 A reflective green cube
